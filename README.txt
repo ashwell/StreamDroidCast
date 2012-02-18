@@ -1,0 +1,1 @@
+This app will allow an Android device to stream audio to a host machine for output to any connected speaker system.
