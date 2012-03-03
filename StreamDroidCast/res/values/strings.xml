@@ -4,5 +4,6 @@
     <string name="hello">Hello World, StreamDroidCastActivity!</string>
     <string name="app_name">StreamDroidCast</string>
     <string name="start">Start</string>
+    <string name="enterIPMessg">Enter the IP Address of the computer you want to stream to</string>
 
 </resources>
